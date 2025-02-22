@@ -14,6 +14,7 @@ function App() {
       <img src={cardInfo.image} alt="" />
       <h4>{cardInfo.firstName}</h4>
       <h5>{cardInfo.lastName}</h5>
+      <p>lorem ipulso lorem impulso</p>
      </div>
     </>
   )
